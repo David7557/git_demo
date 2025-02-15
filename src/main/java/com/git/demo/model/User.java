@@ -1,4 +1,4 @@
-package com.git.demo.user;
+package com.git.demo.model;
 
 public class User {
     private int id;
