@@ -3,6 +3,7 @@ package com.demo.product;
 public class DemoProduct {
     private int id;
     private String productname;
+    private  int price;
 
     public int getId() {
         return id;
@@ -28,6 +29,6 @@ public class DemoProduct {
         this.price = price;
     }
 
-    private  int price;
+
 
 }
